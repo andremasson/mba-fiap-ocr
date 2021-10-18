@@ -1,0 +1,4 @@
+Estabalecimento: CUPOM FISCAL
+CNPJ: 
+Data: 05/02/2015
+Total: 200,00
